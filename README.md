@@ -30,11 +30,14 @@ https://nodejs.org/en/download/
 
 ## About
 
+### What this project demonstrates
 This project demonstrates knowledge of working with NodeJS, Angular-CLI, Angular 2+, Typescript and understanding of general coding conventions.
 
-Vulnerability data structure based on Vercode Greenlight application sample found on web.
+### How was the data to show selected
+The Vulnerability data structure based on Vercode Greenlight application sample found on web.
 
-Grid component selection. Several grid options were considered. Decided to go with the agGrid.
+## The Grid Component Selection
+Several grid options were considered. Decided to go with the agGrid.
 Information is avaialble here: https://www.ag-grid.com/
 
 My General Requirements:
