@@ -1,0 +1,13 @@
+<h1>
+  {{title}}
+</h1>
+
+<!-- Show our list of vulnerabilities to test service -->
+<!--<div *ngFor="let vulnerability of vulnerabilities">
+  {{vulnerability.diagnostic}}
+</div>-->
+
+<p>Total discovered: {{vulnerabilities.length}}</p>
+<vulnerability-grid [vulnerabilities]="vulnerabilities">
+</vulnerability-grid>
+
