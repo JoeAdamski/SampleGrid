@@ -18,7 +18,7 @@ https://nodejs.org/en/download/
 
 3) Download/Unzip this repository to your local machine.
 
-4) Install all depenedencies using npm. From within the SampleGrid directory. This might take some time.
+4) Install all depenedencies using npm. From within the SampleGrid directory (SampleGrid-master if you use the default zip name). This might take some time.
 - npm install
 
 5) Start the built in webserver that runs in NodeJS
