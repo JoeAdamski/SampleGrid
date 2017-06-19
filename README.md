@@ -1,28 +1,44 @@
-# SampleGrid
+# SampleGrid Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
+A sample web page displaying a simple grid in Angular that lists elements of a security vulnerability. The grid supports column sorting.
 
-## Development server
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2 and Angular 4.2.3.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Getting Started
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+1) Install the recent version of NodeJS for your platform. Available here.
+https://nodejs.org/en/download/
 
-## Build
+2) Install Angular CLI using npm:
+- npm install -g @angular/cli
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+3) Download/Unzip this repository to your local machine.
 
-## Running unit tests
+4) Install all depenedencies using npm. From within the SampleGrid directory. This might take some time.
+- npm install
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+5) Start the built in webserver that runs in NodeJS
+- ng serve --port 4200
 
-## Running end-to-end tests
+6) From your browser navigate to the following URL:
+   http://localhost:4200
+   
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+## About
 
-## Further help
+This project demonstrates knowledge of working with NodeJS, Angular-CLI, Angular 2+, Typescript and understanding of general coding conventions.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Vulnerability data structure based on Vercode Greenlight application sample found on web.
+
+Grid component selection. Several grid options were considered. Decided to go with the agGrid.
+Information is avaialble here: https://www.ag-grid.com/
+
+My General Requirements:
+- Downloadable via NPM w/o license.
+- Standalone grid without requiring component framework.
+- Supports Sorting
+- Nice styling (This one looked nice)
+- Mature implementation.
+- Works (Had trouble with some others)
+
