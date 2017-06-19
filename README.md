@@ -30,20 +30,20 @@ https://nodejs.org/en/download/
 
 ## About
 
-### What this project demonstrates
+### What this project demonstrates.
 This project demonstrates knowledge of working with NodeJS, Angular-CLI, Angular 2+, Typescript and understanding of general coding conventions.
 
-### How was the data to show selected
+### How the data shown was selected.
 The Vulnerability data structure based on Vercode Greenlight application sample found on web.
 
-## The Grid Component Selection
-Several grid options were considered. Decided to go with the agGrid.
+## The Grid Component Selection.
+Several grid options were considered. Ultimately decided to go with the agGrid.
 Information is avaialble here: https://www.ag-grid.com/
 
 My General Requirements:
 - Downloadable via NPM w/o license.
-- Standalone grid without requiring component framework.
-- Supports Sorting
+- Standalone grid without requiring additional component framework baggage.
+- Supports sorting
 - Nice styling (This one looked nice)
 - Mature implementation.
 - Works (Had trouble with some others)
