@@ -21,7 +21,7 @@ https://nodejs.org/en/download/
 4) Install all depenedencies using npm. From within the SampleGrid directory (SampleGrid-master if you use the default zip name). This might take some time.
 - npm install
 
-5) Start the built in webserver that runs in NodeJS
+5) Start the built in webserver that runs in NodeJS. The port option is shown incase you want to change it.
 - ng serve --port 4200
 
 6) From your browser navigate to the following URL:
