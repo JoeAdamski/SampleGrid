@@ -20,12 +20,14 @@ https://nodejs.org/en/download/
 
 4) From a command prompt change your default directory to the project root directory. This is the folder that contains package.json and the /src and /e2e folders.
 - cd [PATH_WHERE_YOU_PUT_REPOSITORY]/SampleGrid-master
+or 
+- cd [PATH_WHERE_YOU_PUT_REPOSITORY]/SampleGrid
 
 
-4) Install all depenedencies using npm. This might take some time.
+4) From the project root folder install all depenedencies using npm. This might take some time.
 - npm install
 
-5) Start the built in webserver that runs in NodeJS. The port option is shown incase you want to change it.
+5) From the project root folder start the AngularCLI webserver that runs in NodeJS. The port option is shown incase you want to change the port number.
 - ng serve --port 4200
 
 6) From your browser navigate to the following URL:
