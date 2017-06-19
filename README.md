@@ -1,4 +1,4 @@
-# SampleGrid Project
+# SampleGrid Project - by Joe Adamski
 
 A sample web page displaying a simple grid in Angular that lists elements of a security vulnerability. The grid supports column sorting.
 
