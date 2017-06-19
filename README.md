@@ -18,9 +18,12 @@ https://nodejs.org/en/download/
 
 3) Download/Unzip this repository to your local machine.
 
-4) From a command prompt change your current directory to the project root folder. This is the folder that contains package.json file and the /src and /e2e folders.
+4) From a command prompt change your current directory to the project root folder. This is the folder that contains the package.json file and the /src and /e2e folders.
+
 - cd [PATH_WHERE_YOU_PUT_REPOSITORY]/SampleGrid-master
-or 
+
+or
+
 - cd [PATH_WHERE_YOU_PUT_REPOSITORY]/SampleGrid
 
 
