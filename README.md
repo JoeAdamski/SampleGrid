@@ -23,7 +23,7 @@ https://nodejs.org/en/download/
 
    `cd [PATH_WHERE_YOU_PUT_REPOSITORY]/SampleGrid-master`
 
-or
+   or
 
    `cd [PATH_WHERE_YOU_PUT_REPOSITORY]/SampleGrid`
 
