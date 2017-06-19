@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Getting Started
 
-1) Install the recent version of NodeJS for your platform. Available here.
+1) Install the latest version of NodeJS for your platform. Available here.
 https://nodejs.org/en/download/
 
 2) Install Angular CLI using npm:
